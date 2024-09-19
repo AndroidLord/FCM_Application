@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621204398979",
+    "project_id": "fir-pushnotification-a0cde",
+    "storage_bucket": "fir-pushnotification-a0cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621204398979:android:6af742f000f95782a7ccb6",
+        "android_client_info": {
+          "package_name": "com.example.fcmapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx70BYWqOdBNSWbiL1c5jDUhKQ9sT0edg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
